@@ -10,4 +10,4 @@ To run the code, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/DreiBert/Queue_DataStructure.git
+   git clone https://github.com/BertDrei/Queue_DataStructure.git
